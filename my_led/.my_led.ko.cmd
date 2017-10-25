@@ -1,0 +1,1 @@
+cmd_/home/qing/LinuxDeviceDriver/my_led/my_led.ko := /usr/local/arm/arm-2009q3/bin/arm-none-linux-gnueabi-ld -EL -r  -T /home/qing/iTop4412_Kernel_3.0/scripts/module-common.lds --build-id  -o /home/qing/LinuxDeviceDriver/my_led/my_led.ko /home/qing/LinuxDeviceDriver/my_led/my_led.o /home/qing/LinuxDeviceDriver/my_led/my_led.mod.o

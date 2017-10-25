@@ -1,0 +1,1 @@
+cmd_/home/qing/LinuxDeviceDriver/scull1/firstdrv.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/qing/LinuxDeviceDriver/scull1/firstdrv.ko /home/qing/LinuxDeviceDriver/scull1/firstdrv.o /home/qing/LinuxDeviceDriver/scull1/firstdrv.mod.o
